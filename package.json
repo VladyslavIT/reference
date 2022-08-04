@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladyslavIT/goit-js-hw-08.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladyslavIT/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/VladyslavIT/goit-js-hw-08#readme",
+  "dependencies": {
+    "@vimeo/player": "^2.17.1",
+    "lodash.throttle": "^4.1.1",
+    "simplelightbox": "^2.10.3"
+  }
+}
